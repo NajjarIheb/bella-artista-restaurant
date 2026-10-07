@@ -1,0 +1,126 @@
+==========================================================
+ BELLA ARTISTA - InfinityFree DEPLOYMENT GUIDE (step by step)
+==========================================================
+
+WHAT'S IN THIS deploy FOLDER
+  - database.sql               -> your whole database, ready to import
+  - bella-artista-laravel.zip  -> the whole website (59 MB), ready to upload
+  - .env.production            -> server configuration template (rename to .env)
+  - root-htaccess.txt          -> forwarding file (rename to .htaccess)
+
+You need TWO free things:
+  1. Your InfinityFree account (you already have it)
+  2. FileZilla (free FTP program) OR the InfinityFree online File Manager
+
+==========================================================
+STEP 1 - CREATE THE DATABASE (on InfinityFree website)
+==========================================================
+1. Go to your InfinityFree control panel.
+2. Click "MySQL Databases".
+3. Choose a database name, e.g.:  restaurant
+   -> It will become something like: if0_12345678_restaurant
+4. Click Create. Write down these 4 things (you will need them):
+     - Database name      (if0_12345678_restaurant)
+     - Database username  (if0_12345678)
+     - Database password  (you chose it)
+     - Database host      (looks like: sql123.infinityfree.com)
+
+==========================================================
+STEP 2 - IMPORT YOUR DATA (on InfinityFree website)
+==========================================================
+1. In the control panel, next to your database click "phpMyAdmin".
+2. On the left side, click your database name.
+3. Click the "Import" tab at the top.
+4. "Choose File" -> select the file:  database.sql  (from this folder)
+5. Click "Go". Wait a few seconds. Done - your tables are there.
+
+==========================================================
+STEP 3 - UPLOAD THE WEBSITE FILES
+==========================================================
+The website needs to be inside a folder called  htdocs/laravel
+
+Option A - with FileZilla (recommended, upload limit is big):
+  1. Open FileZilla.
+  2. Connect with:
+        Host:     ftpupload.net
+        Username: your InfinityFree username (if0_12345678)
+        Password: your InfinityFree account password
+        Port:     21
+  3. On the right side (server) double-click the folder  htdocs
+  4. Upload the file  bella-artista-laravel.zip  into  htdocs
+     (drag it from the left side to the right side)
+
+  5. Now go BACK to the InfinityFree website file manager:
+     - Open "File Manager"
+     - Go into htdocs
+     - Click on  bella-artista-laravel.zip
+     - Click "Extract" (it unzips into a folder called laravel)
+     - After extraction, DELETE the zip file to save space.
+
+Option B - only with the online File Manager:
+  - The file is 59 MB but the online uploader allows about 10 MB,
+    so use Option A. You can use FTP then extract.
+
+==========================================================
+STEP 4 - CREATE THE .env FILE (configuration)
+==========================================================
+1. In the File Manager, go into  htdocs/laravel
+2. Upload the file  .env.production  there, and RENAME it to  .env
+   (or: upload it, then use the editor to change it)
+3. Click .env -> Edit. Change these lines to YOUR values:
+     APP_URL=https://YOUR-SITE.infinityfreeapp.com   <-- put YOUR site address here!
+     DB_HOST=sql123.infinityfree.com                <-- from Step 1
+     DB_DATABASE=if0_12345678_restaurant            <-- from Step 1
+     DB_USERNAME=if0_12345678                       <-- from Step 1
+     DB_PASSWORD=your_db_password_here              <-- from Step 1
+4. Save the file.
+
+IMPORTANT: APP_URL must be EXACTLY your site address. If it is wrong,
+the website will show without any styling (no CSS, no images).
+
+==========================================================
+STEP 5 - CREATE THE .htaccess (forwarding)
+==========================================================
+1. In the File Manager, go into  htdocs  (the main folder, NOT laravel)
+2. Upload  root-htaccess.txt  there and RENAME it to  .htaccess
+   (if a file called .htaccess already exists, overwrite it)
+
+==========================================================
+STEP 6 - SET THE PHP VERSION
+==========================================================
+1. In InfinityFree control panel, open your domain -> "PHP Configuration"
+2. Set PHP version to 8.1 (or the newest available, at least 7.4)
+3. Save.
+
+==========================================================
+STEP 7 - OPEN YOUR WEBSITE
+==========================================================
+Visit:  https://YOUR-SITE.infinityfreeapp.com
+You should see the Bella Artista home page.
+
+Test these:
+  - /menu            menu page
+  - /delivery        order page
+  - /admin/login     admin login: admin@aura.com / password123
+  - /login           customer login
+
+==========================================================
+STEP 8 - GOOGLE LOGIN (only if you want "Continue with Google")
+==========================================================
+1. Go to https://console.cloud.google.com -> your project
+   -> APIs & Services -> Credentials -> your OAuth client
+2. Add to "Authorized JavaScript origins":
+     https://YOUR-SITE.infinityfreeapp.com
+3. Save. Google login will work on the new site.
+
+==========================================================
+IF SOMETHING GOES WRONG (troubleshooting)
+==========================================================
+- Blank page?  -> Edit .env and set APP_DEBUG=true temporarily,
+                  reload, read the error. Then set it back to false.
+- No styling?  -> APP_URL is wrong. Fix it and re-save .env.
+- Database error -> Check DB_HOST / DB_DATABASE / DB_USERNAME / DB_PASSWORD.
+- Check the error log:  File Manager -> htdocs/laravel/storage/logs -> laravel.log
+
+GOOD LUCK!
+==========================================================

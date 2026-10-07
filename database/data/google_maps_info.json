@@ -1,0 +1,17 @@
+{
+    "name": "BELLA VISTA",
+    "rating": 3.9,
+    "phone": "+216 21 804 841",
+    "phone_secondary": "+216 25 258 000",
+    "plus_code": "HVG7+CH Korba",
+    "hours": "6:00 AM - 3:00 AM",
+    "description": "Le concept premium incontournable à Korba. Découvrez la meilleure glace artisanale de la ville, nos spécialités traditionnelles Jwejem XL, et un salon de café d'élite aux standards de qualité italienne. Idéalement situé en bord de mer pour savourer vos soirées d'été 🍦.",
+    "address": "Avenue de l'Environnement, Korba, Tunisia",
+    "logo_url": "/storage/restaurant/bellavista-logo.jpg",
+    "cover_url": "/storage/restaurant/bellavista-cover.jpg",
+    "maps_url": "https://maps.app.goo.gl/4f47MFWhXrCAPzxBA",
+    "latitude": 36.5761121,
+    "longitude": 10.8639316,
+    "place_id": "ChIJc3szabe7AhMRb3e4lyOZTC8",
+    "category": "Restaurant"
+}

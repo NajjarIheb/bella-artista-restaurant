@@ -1,0 +1,1653 @@
+﻿{
+    "categories":  [
+                       {
+                           "name":  "Entrées Chaudes",
+                           "slug":  "entrees-chaudes",
+                           "display_order":  1,
+                           "items":  [
+                                         {
+                                             "name":  "Brik Chevrette",
+                                             "description":  null,
+                                             "price":  7,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Brik Diari",
+                                             "description":  null,
+                                             "price":  6,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-2.jpg"
+                                         },
+                                         {
+                                             "name":  "Brik Thon",
+                                             "description":  null,
+                                             "price":  6,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-3.jpg"
+                                         },
+                                         {
+                                             "name":  "Calamar Doré",
+                                             "description":  null,
+                                             "price":  28.5,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-4.jpg"
+                                         },
+                                         {
+                                             "name":  "Chevrettes Panées",
+                                             "description":  null,
+                                             "price":  31.5,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-5.webp"
+                                         },
+                                         {
+                                             "name":  "Chevrettes Sautées à L\u0027aille",
+                                             "description":  null,
+                                             "price":  29.5,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-6.jpeg"
+                                         },
+                                         {
+                                             "name":  "Cocotte Moules sautées",
+                                             "description":  "1 kg",
+                                             "price":  34.5,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-7.jpg"
+                                         },
+                                         {
+                                             "name":  "Ojja Chevrette",
+                                             "description":  null,
+                                             "price":  28,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-8.jpg"
+                                         },
+                                         {
+                                             "name":  "Ojja Escalope et Merguez",
+                                             "description":  null,
+                                             "price":  22.5,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-9.png"
+                                         },
+                                         {
+                                             "name":  "Ojja Escalope",
+                                             "description":  null,
+                                             "price":  19.5,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-10.jpg"
+                                         },
+                                         {
+                                             "name":  "Ojja Fruits de Mer",
+                                             "description":  null,
+                                             "price":  29.5,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-11.jpg"
+                                         },
+                                         {
+                                             "name":  "Ojja Merguez",
+                                             "description":  null,
+                                             "price":  19.5,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-12.jpg"
+                                         },
+                                         {
+                                             "name":  "Omelette",
+                                             "description":  "thon, Fromage",
+                                             "price":  13,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-13.jpg"
+                                         },
+                                         {
+                                             "name":  "Plat Frites",
+                                             "description":  null,
+                                             "price":  6,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-14.jpg"
+                                         },
+                                         {
+                                             "name":  "Plat Nuggets",
+                                             "description":  null,
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/entrees-chaudes/entrees-chaudes-15.jpg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Petit Déjeuner",
+                           "slug":  "petit-dejeuner",
+                           "display_order":  2,
+                           "items":  [
+                                         {
+                                             "name":  "Brunch Bella Artista",
+                                             "description":  "2 cafés au Choix, 2 jus au choix, 2 yaourts, 1 mini crêpe chocolat ou salé, 2 croissants ou cakes maison, 2 salades de fruits, beurre, confiture, miel, chocolat, fraidou, charcuterie, assortiment de fromage, omelette, 2 brochettes escalope panés, 4 Nuggets, eau 1L",
+                                             "price":  40,
+                                             "image_url":  "/storage/menu/petit-dejeuner/petit-dejeuner-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Brunch Normal",
+                                             "description":  "Café au choix, jus, yaourt, croissant ou cake, mini crêpe chocolat ou salé, omelette, charcuterie, assortiment de fromage, beurre, confiture, fraidou, miel, brochette escalope pané, salade de fruits, Nuggets, eau 0.5L.",
+                                             "price":  22,
+                                             "image_url":  "/storage/menu/petit-dejeuner/petit-dejeuner-2.jpg"
+                                         },
+                                         {
+                                             "name":  "Good Morning",
+                                             "description":  "Café au choix, croissant, Jus.",
+                                             "price":  8,
+                                             "image_url":  "/storage/menu/petit-dejeuner/petit-dejeuner-3.jpg"
+                                         },
+                                         {
+                                             "name":  "Kids",
+                                             "description":  "Brochette fruits, chocolat au lait, Jus, mini crêpe, grain d\u0027or, Surprise Bella Artista",
+                                             "price":  13,
+                                             "image_url":  "/storage/menu/petit-dejeuner/petit-dejeuner-4.png"
+                                         },
+                                         {
+                                             "name":  "Matin Sucré",
+                                             "description":  "Café au choix, croissant ou cake, jus, yaourt, beurre, confiture, miel, eau 0.5L",
+                                             "price":  14,
+                                             "image_url":  null
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Salades",
+                           "slug":  "salades",
+                           "display_order":  3,
+                           "items":  [
+                                         {
+                                             "name":  "Césare",
+                                             "description":  "Blanc de poulet, laitue, tomate, sauce césar, fromage parmesan, croton pignon",
+                                             "price":  19.5,
+                                             "image_url":  "/storage/menu/salades/salades-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Italienne",
+                                             "description":  "Poulet, fromage, laitue, tomate",
+                                             "price":  16.5,
+                                             "image_url":  "/storage/menu/salades/salades-2.jpg"
+                                         },
+                                         {
+                                             "name":  "Pêcheur",
+                                             "description":  "Fruits de mer",
+                                             "price":  32.5,
+                                             "image_url":  "/storage/menu/salades/salades-3.jpg"
+                                         },
+                                         {
+                                             "name":  "Salade Exotique",
+                                             "description":  "Laitue, Chevrette, kiwi, noix, figue sèche",
+                                             "price":  31.5,
+                                             "image_url":  "/storage/menu/salades/salades-4.jpg"
+                                         },
+                                         {
+                                             "name":  "Salade Mechouia",
+                                             "description":  null,
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/salades/salades-5.jpg"
+                                         },
+                                         {
+                                             "name":  "Salade Variée",
+                                             "description":  null,
+                                             "price":  15,
+                                             "image_url":  "/storage/menu/salades/salades-6.jpg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Pâtes",
+                           "slug":  "pates",
+                           "display_order":  4,
+                           "items":  [
+                                         {
+                                             "name":  "Gratin de fruits de mer",
+                                             "description":  "Sauce Blanche",
+                                             "price":  31.5,
+                                             "image_url":  "/storage/menu/pates/pates-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Lasagne Bolognaise",
+                                             "description":  "Sauce Rouge",
+                                             "price":  23.5,
+                                             "image_url":  "/storage/menu/pates/pates-2.jpg"
+                                         },
+                                         {
+                                             "name":  "Macaronis Fell aux poissons",
+                                             "description":  "مقرونة فل باللحوت",
+                                             "price":  31,
+                                             "image_url":  "/storage/menu/pates/pates-3.jpg"
+                                         },
+                                         {
+                                             "name":  "Paella",
+                                             "description":  "2 Pax",
+                                             "price":  85,
+                                             "image_url":  "/storage/menu/pates/pates-4.jpg"
+                                         },
+                                         {
+                                             "name":  "Penne 4 Fromages",
+                                             "description":  "Sauce Blanche",
+                                             "price":  22.5,
+                                             "image_url":  "/storage/menu/pates/pates-5.jpg"
+                                         },
+                                         {
+                                             "name":  "Penne All\u0027arrabiata",
+                                             "description":  "Sauce Rouge",
+                                             "price":  9.5,
+                                             "image_url":  "/storage/menu/pates/pates-6.jpg"
+                                         },
+                                         {
+                                             "name":  "Risotto Fruits de mer",
+                                             "description":  null,
+                                             "price":  40,
+                                             "image_url":  "/storage/menu/pates/pates-7.jpg"
+                                         },
+                                         {
+                                             "name":  "Spaghetti aux Fruits de mer",
+                                             "description":  "Sauce Blanche",
+                                             "price":  35.5,
+                                             "image_url":  "/storage/menu/pates/pates-8.jpg"
+                                         },
+                                         {
+                                             "name":  "Spaghetti aux Fruits de mer",
+                                             "description":  "Sauce Rouge",
+                                             "price":  32.5,
+                                             "image_url":  "/storage/menu/pates/pates-9.jpg"
+                                         },
+                                         {
+                                             "name":  "Spaghetti Bolognaise",
+                                             "description":  "Sauce Rouge",
+                                             "price":  19.5,
+                                             "image_url":  "/storage/menu/pates/pates-10.jpg"
+                                         },
+                                         {
+                                             "name":  "Spaghetti Carbonara",
+                                             "description":  "Sauce Blanche",
+                                             "price":  19.5,
+                                             "image_url":  "/storage/menu/pates/pates-11.jpg"
+                                         },
+                                         {
+                                             "name":  "Spaghetti Chevrette",
+                                             "description":  "Sauce Rouge",
+                                             "price":  32,
+                                             "image_url":  "/storage/menu/pates/pates-12.jpg"
+                                         },
+                                         {
+                                             "name":  "Spaghetti Puttanesca",
+                                             "description":  "Sauce Rouge",
+                                             "price":  15.5,
+                                             "image_url":  "/storage/menu/pates/pates-13.jpg"
+                                         },
+                                         {
+                                             "name":  "Tagliatelle champignon et poulet",
+                                             "description":  "Crémeuse",
+                                             "price":  22.5,
+                                             "image_url":  "/storage/menu/pates/pates-14.webp"
+                                         },
+                                         {
+                                             "name":  "Tagliatelle Chevrette",
+                                             "description":  "SAUCE ROSÉE",
+                                             "price":  29.5,
+                                             "image_url":  "/storage/menu/pates/pates-15.jpg"
+                                         },
+                                         {
+                                             "name":  "Tagliatelle Marimonté",
+                                             "description":  "Chevrette, Champignon",
+                                             "price":  31.5,
+                                             "image_url":  "/storage/menu/pates/pates-16.jpg"
+                                         },
+                                         {
+                                             "name":  "Tagliatelle Norvégienne",
+                                             "description":  "Crème Fraîche, Saumon, Parmesan - SAUCE ROSÉE",
+                                             "price":  36.5,
+                                             "image_url":  "/storage/menu/pates/pates-17.jpg"
+                                         },
+                                         {
+                                             "name":  "Tagliatelle Romanove",
+                                             "description":  "Crème Fraîche, Sauce Bolognaise, Champignon, Parmesan",
+                                             "price":  23.5,
+                                             "image_url":  "/storage/menu/pates/pates-18.jpg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Les Grillades",
+                           "slug":  "les-grillades",
+                           "display_order":  5,
+                           "items":  [
+                                         {
+                                             "name":  "1/2 poulet à l\u0027Anglaise",
+                                             "description":  "1/2 Poulet panée, Mexicaine fromage",
+                                             "price":  27,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-1.jpg"
+                                         },
+                                         {
+                                             "name":  "1/2 poulet à la Mexicaine",
+                                             "description":  null,
+                                             "price":  22.5,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-2.jpg"
+                                         },
+                                         {
+                                             "name":  "Brochettes de poulet",
+                                             "description":  null,
+                                             "price":  20,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-3.jpg"
+                                         },
+                                         {
+                                             "name":  "Brochettes mixtes",
+                                             "description":  null,
+                                             "price":  28,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-4.jpg"
+                                         },
+                                         {
+                                             "name":  "Cordon bleu",
+                                             "description":  null,
+                                             "price":  26,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-5.jpg"
+                                         },
+                                         {
+                                             "name":  "Côte à l\u0027os XL",
+                                             "description":  null,
+                                             "price":  42,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Cotelette d\u0027Agneau",
+                                             "description":  "5 Pièces",
+                                             "price":  45,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-7.jpg"
+                                         },
+                                         {
+                                             "name":  "Escalope Grillée",
+                                             "description":  null,
+                                             "price":  18.5,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-8.jpg"
+                                         },
+                                         {
+                                             "name":  "Escalope panée aux amandes",
+                                             "description":  null,
+                                             "price":  23.5,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-9.png"
+                                         },
+                                         {
+                                             "name":  "Escalope Panée",
+                                             "description":  null,
+                                             "price":  21,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-10.jpg"
+                                         },
+                                         {
+                                             "name":  "Escalope sauce champignons",
+                                             "description":  null,
+                                             "price":  26,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-11.jpg"
+                                         },
+                                         {
+                                             "name":  "Filet de Boeuf grillé",
+                                             "description":  null,
+                                             "price":  40,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-12.jpg"
+                                         },
+                                         {
+                                             "name":  "Filet de Boeuf sauce champignons",
+                                             "description":  null,
+                                             "price":  43,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-13.jpg"
+                                         },
+                                         {
+                                             "name":  "Filet sauce poivre vert",
+                                             "description":  null,
+                                             "price":  43,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-14.jpg"
+                                         },
+                                         {
+                                             "name":  "Filet sauce Roquefort",
+                                             "description":  null,
+                                             "price":  43,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-15.jpg"
+                                         },
+                                         {
+                                             "name":  "Foie Grillé",
+                                             "description":  null,
+                                             "price":  30.5,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-16.png"
+                                         },
+                                         {
+                                             "name":  "Galette",
+                                             "description":  null,
+                                             "price":  2,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-17.jpg"
+                                         },
+                                         {
+                                             "name":  "Mixte grillée",
+                                             "description":  null,
+                                             "price":  39.5,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-18.png"
+                                         },
+                                         {
+                                             "name":  "Plat Merguez",
+                                             "description":  null,
+                                             "price":  24,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-19.jpg"
+                                         },
+                                         {
+                                             "name":  "Poulet à la Hawaïana",
+                                             "description":  "Suprême de poulet, amande, ananas",
+                                             "price":  26,
+                                             "image_url":  "/storage/menu/les-grillades/les-grillades-20.jpg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Les Poissons",
+                           "slug":  "les-poissons",
+                           "display_order":  6,
+                           "items":  [
+                                         {
+                                             "name":  "Calamar farcie",
+                                             "description":  null,
+                                             "price":  45,
+                                             "image_url":  "/storage/menu/les-poissons/les-poissons-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Couscous au Poisson",
+                                             "description":  null,
+                                             "price":  37,
+                                             "image_url":  "/storage/menu/les-poissons/les-poissons-2.jpeg"
+                                         },
+                                         {
+                                             "name":  "Crevete Grillé",
+                                             "description":  null,
+                                             "price":  50,
+                                             "image_url":  "/storage/menu/les-poissons/les-poissons-3.jpeg"
+                                         },
+                                         {
+                                             "name":  "Crevete Panné",
+                                             "description":  null,
+                                             "price":  52,
+                                             "image_url":  "/storage/menu/les-poissons/les-poissons-4.jpeg"
+                                         },
+                                         {
+                                             "name":  "Daurade Grillée",
+                                             "description":  null,
+                                             "price":  27,
+                                             "image_url":  "/storage/menu/les-poissons/les-poissons-5.jpeg"
+                                         },
+                                         {
+                                             "name":  "Filet de Loup en croûte de pistaches",
+                                             "description":  null,
+                                             "price":  39,
+                                             "image_url":  "/storage/menu/les-poissons/les-poissons-6.jpeg"
+                                         },
+                                         {
+                                             "name":  "Filet de poisson pané",
+                                             "description":  null,
+                                             "price":  33,
+                                             "image_url":  "/storage/menu/les-poissons/les-poissons-7.jpeg"
+                                         },
+                                         {
+                                             "name":  "Grillade Mixte de poissons",
+                                             "description":  null,
+                                             "price":  52,
+                                             "image_url":  "/storage/menu/les-poissons/les-poissons-8.jpeg"
+                                         },
+                                         {
+                                             "name":  "Loup farcé aux fruits de mer",
+                                             "description":  null,
+                                             "price":  41,
+                                             "image_url":  "/storage/menu/les-poissons/les-poissons-9.jpeg"
+                                         },
+                                         {
+                                             "name":  "Loup Grillé",
+                                             "description":  null,
+                                             "price":  30,
+                                             "image_url":  "/storage/menu/les-poissons/les-poissons-10.jpg"
+                                         },
+                                         {
+                                             "name":  "Marmit pêcheur sauté",
+                                             "description":  null,
+                                             "price":  45,
+                                             "image_url":  "/storage/menu/les-poissons/les-poissons-11.jpg"
+                                         },
+                                         {
+                                             "name":  "Saumon Grillé",
+                                             "description":  null,
+                                             "price":  45,
+                                             "image_url":  "/storage/menu/les-poissons/les-poissons-12.jpeg"
+                                         },
+                                         {
+                                             "name":  "Symphonie de pêcheur",
+                                             "description":  null,
+                                             "price":  100,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Symphonie Royale BELLA VISTA (2 Pers)",
+                                             "description":  "Terre et Mer",
+                                             "price":  130,
+                                             "image_url":  null
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Les Pizzas",
+                           "slug":  "les-pizzas",
+                           "display_order":  7,
+                           "items":  [
+                                         {
+                                             "name":  "Margherita",
+                                             "description":  "Sauce tomate, Mozzarella, Olive",
+                                             "price":  15,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-1.webp"
+                                         },
+                                         {
+                                             "name":  "Neptune",
+                                             "description":  "Sauce tomate, Mozzarella, Thon, olive",
+                                             "price":  18,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-2.jpg"
+                                         },
+                                         {
+                                             "name":  "4 Fromages sauce blanche",
+                                             "description":  "Mozzarella, Roquefort, Gruyère, cheddar",
+                                             "price":  23,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-3.jpeg"
+                                         },
+                                         {
+                                             "name":  "4 Saisons",
+                                             "description":  "Sauce tomate, Mozzarella, légumes, champignons, olives, jambon",
+                                             "price":  18,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-4.jpg"
+                                         },
+                                         {
+                                             "name":  "Bianca",
+                                             "description":  "Sauce blanche, Jambon, Champignons, Mozzarella",
+                                             "price":  22,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-5.jpg"
+                                         },
+                                         {
+                                             "name":  "Bolognaise",
+                                             "description":  "Sauce tomate, Mozzarella, Bolognaise",
+                                             "price":  21,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-6.jpg"
+                                         },
+                                         {
+                                             "name":  "Chevrette",
+                                             "description":  "sauce tomate, chevrettes sautés",
+                                             "price":  27,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-7.jpg"
+                                         },
+                                         {
+                                             "name":  "Escalope",
+                                             "description":  "Sauce tomate, Mozzarella, Escalope, Légumes",
+                                             "price":  18,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-8.jpg"
+                                         },
+                                         {
+                                             "name":  "Fanghi",
+                                             "description":  "Sauce tomate, Mozzarella, champignons",
+                                             "price":  18,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-9.jpg"
+                                         },
+                                         {
+                                             "name":  "Fruits De Mer",
+                                             "description":  "Sauce tomate, Mozzarella, fruits de mer",
+                                             "price":  29,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-10.jpg"
+                                         },
+                                         {
+                                             "name":  "Jambon",
+                                             "description":  "Sauce tomate, Mozzarella, Jambon",
+                                             "price":  18,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-11.jpg"
+                                         },
+                                         {
+                                             "name":  "La Reine",
+                                             "description":  "Sauce tomate, Mozzarella, champignon, Jambon",
+                                             "price":  19,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-12.jpg"
+                                         },
+                                         {
+                                             "name":  "Spécial Dio",
+                                             "description":  "Thon, escalope",
+                                             "price":  19.5,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-13.jpg"
+                                         },
+                                         {
+                                             "name":  "Spécial 4X4",
+                                             "description":  "Escalope, champignons, pepperoni, thon",
+                                             "price":  23,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Spécial Alfredo",
+                                             "description":  null,
+                                             "price":  22,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-15.jpg"
+                                         },
+                                         {
+                                             "name":  "Spécial BELLA VISTA",
+                                             "description":  "Double plus escalope, jambon, champignons, double fromage légumes",
+                                             "price":  29,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-16.jpg"
+                                         },
+                                         {
+                                             "name":  "Spécial Mexican",
+                                             "description":  "Viande hachée",
+                                             "price":  22,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-17.jpg"
+                                         },
+                                         {
+                                             "name":  "Spécial Pepperoni",
+                                             "description":  "Sauce tomate, Mozzarella, pepperoni",
+                                             "price":  19,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-18.jpg"
+                                         },
+                                         {
+                                             "name":  "Spécial Trio",
+                                             "description":  "Jambon, escalope, pepperoni",
+                                             "price":  21.5,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-19.jpg"
+                                         },
+                                         {
+                                             "name":  "Supplément Champignon",
+                                             "description":  null,
+                                             "price":  7,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Supplément Escalope",
+                                             "description":  null,
+                                             "price":  7,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Supplément Jambon",
+                                             "description":  null,
+                                             "price":  5,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Supplément Mozzarella",
+                                             "description":  null,
+                                             "price":  8,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Supplément Œuf",
+                                             "description":  null,
+                                             "price":  1,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Supplément Thon",
+                                             "description":  null,
+                                             "price":  8,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Végétarienne",
+                                             "description":  "Sauce tomate, Mozzarella, légumes grillés",
+                                             "price":  19,
+                                             "image_url":  "/storage/menu/les-pizzas/les-pizzas-26.jpg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Fast Food",
+                           "slug":  "fast-food",
+                           "display_order":  8,
+                           "items":  [
+                                         {
+                                             "name":  "Baguette Farcie - Chevrette",
+                                             "description":  null,
+                                             "price":  18,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Baguette Farcie - Cordon Bleu",
+                                             "description":  null,
+                                             "price":  16,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-2.jpeg"
+                                         },
+                                         {
+                                             "name":  "Baguette Farcie - Escalope",
+                                             "description":  null,
+                                             "price":  14,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-3.png"
+                                         },
+                                         {
+                                             "name":  "Baguette Farcie - Thon",
+                                             "description":  null,
+                                             "price":  14,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-4.jpg"
+                                         },
+                                         {
+                                             "name":  "Baguette Farcie - Viande Hachée",
+                                             "description":  null,
+                                             "price":  17,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-5.png"
+                                         },
+                                         {
+                                             "name":  "Calzone Farcie - Chevrette",
+                                             "description":  null,
+                                             "price":  18,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-6.jpg"
+                                         },
+                                         {
+                                             "name":  "Calzone Farcie - Cordon Bleu",
+                                             "description":  null,
+                                             "price":  16,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-7.jpg"
+                                         },
+                                         {
+                                             "name":  "Calzone Farcie - Escalope",
+                                             "description":  null,
+                                             "price":  14,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-8.webp"
+                                         },
+                                         {
+                                             "name":  "Calzone Farcie - Thon",
+                                             "description":  null,
+                                             "price":  14,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-9.jpg"
+                                         },
+                                         {
+                                             "name":  "Calzone Farcie - Viande Hachée",
+                                             "description":  null,
+                                             "price":  17,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-10.jpg"
+                                         },
+                                         {
+                                             "name":  "Libanais - Chevrette panée",
+                                             "description":  null,
+                                             "price":  17,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-11.png"
+                                         },
+                                         {
+                                             "name":  "Libanais - Cordon Bleu",
+                                             "description":  null,
+                                             "price":  13,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-12.jpg"
+                                         },
+                                         {
+                                             "name":  "Libanais - Escalope",
+                                             "description":  null,
+                                             "price":  11,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-13.jpg"
+                                         },
+                                         {
+                                             "name":  "Libanais - Merguez",
+                                             "description":  null,
+                                             "price":  13,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Libanais - Thon",
+                                             "description":  null,
+                                             "price":  11,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-15.jpg"
+                                         },
+                                         {
+                                             "name":  "Libanais - Viande Hachée",
+                                             "description":  null,
+                                             "price":  15,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-16.png"
+                                         },
+                                         {
+                                             "name":  "Makloub - Chevrette panée",
+                                             "description":  null,
+                                             "price":  17,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-17.png"
+                                         },
+                                         {
+                                             "name":  "Makloub - Cordon Bleu",
+                                             "description":  null,
+                                             "price":  13,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-18.png"
+                                         },
+                                         {
+                                             "name":  "Makloub - Escalope",
+                                             "description":  null,
+                                             "price":  11,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-19.png"
+                                         },
+                                         {
+                                             "name":  "Makloub - Merguez",
+                                             "description":  null,
+                                             "price":  13,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-20.png"
+                                         },
+                                         {
+                                             "name":  "Makloub - Thon",
+                                             "description":  null,
+                                             "price":  11,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-21.png"
+                                         },
+                                         {
+                                             "name":  "Makloub - Viande Hachée",
+                                             "description":  null,
+                                             "price":  15,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-22.png"
+                                         },
+                                         {
+                                             "name":  "Paninis - Escalope",
+                                             "description":  null,
+                                             "price":  9,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-23.jpg"
+                                         },
+                                         {
+                                             "name":  "Paninis - Jambon",
+                                             "description":  null,
+                                             "price":  9,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-24.jpg"
+                                         },
+                                         {
+                                             "name":  "Paninis - Thon",
+                                             "description":  null,
+                                             "price":  9,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-25.jpeg"
+                                         },
+                                         {
+                                             "name":  "Sandwich Pilote - Escalope",
+                                             "description":  "Blancs de poulet panés, Amandes, Gruyère, Cheddar",
+                                             "price":  19,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Sandwichs Plan B - Chevrette",
+                                             "description":  null,
+                                             "price":  18,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-27.jpg"
+                                         },
+                                         {
+                                             "name":  "Sandwichs Plan B - Cordon Bleu",
+                                             "description":  null,
+                                             "price":  14,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-28.png"
+                                         },
+                                         {
+                                             "name":  "Sandwichs Plan B - Escalope Grillée",
+                                             "description":  null,
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-29.webp"
+                                         },
+                                         {
+                                             "name":  "Sandwichs Plan B - Escalope panée",
+                                             "description":  null,
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-30.jpg"
+                                         },
+                                         {
+                                             "name":  "Sandwichs Plan B - Viande hachée",
+                                             "description":  null,
+                                             "price":  16,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-31.png"
+                                         },
+                                         {
+                                             "name":  "Supplément Champignon",
+                                             "description":  null,
+                                             "price":  3,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Supplément Escalope",
+                                             "description":  null,
+                                             "price":  5.5,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Supplément Gruyère Holandais",
+                                             "description":  null,
+                                             "price":  6,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Supplément Jambon",
+                                             "description":  null,
+                                             "price":  3,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Supplément Mozzarella",
+                                             "description":  null,
+                                             "price":  5,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Supplément Œuf",
+                                             "description":  null,
+                                             "price":  1,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Supplément Sauce Fromage",
+                                             "description":  null,
+                                             "price":  4,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Supplément Thon",
+                                             "description":  null,
+                                             "price":  5,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Tacos - Chevrette panées",
+                                             "description":  null,
+                                             "price":  17,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-40.png"
+                                         },
+                                         {
+                                             "name":  "Tacos - Cordon Bleu",
+                                             "description":  null,
+                                             "price":  13,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-41.jpg"
+                                         },
+                                         {
+                                             "name":  "Tacos - Escalope panée",
+                                             "description":  null,
+                                             "price":  11,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-42.jpg"
+                                         },
+                                         {
+                                             "name":  "Tacos - Viande Hachée",
+                                             "description":  null,
+                                             "price":  15,
+                                             "image_url":  "/storage/menu/fast-food/fast-food-43.jpg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Crêpes Salées",
+                           "slug":  "crepes-salees",
+                           "display_order":  9,
+                           "items":  [
+                                         {
+                                             "name":  "Crêpe classique",
+                                             "description":  "Thon, Fromage",
+                                             "price":  11,
+                                             "image_url":  "/storage/menu/crepes-salees/crepes-salees-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Crêpe escalope",
+                                             "description":  null,
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/crepes-salees/crepes-salees-2.jpg"
+                                         },
+                                         {
+                                             "name":  "Crêpe fourrée chevrette",
+                                             "description":  "Fromage, Chevrette, sauce blanche",
+                                             "price":  19,
+                                             "image_url":  "/storage/menu/crepes-salees/crepes-salees-3.jpeg"
+                                         },
+                                         {
+                                             "name":  "Crêpe fourrée escalope",
+                                             "description":  null,
+                                             "price":  17,
+                                             "image_url":  "/storage/menu/crepes-salees/crepes-salees-4.jpg"
+                                         },
+                                         {
+                                             "name":  "Crêpe Français",
+                                             "description":  "Poulet, Champignon, Fromage, Sauce blanche, Sauce Fromage",
+                                             "price":  15,
+                                             "image_url":  "/storage/menu/crepes-salees/crepes-salees-5.jpg"
+                                         },
+                                         {
+                                             "name":  "Crêpe jambon",
+                                             "description":  null,
+                                             "price":  10,
+                                             "image_url":  "/storage/menu/crepes-salees/crepes-salees-6.jpg"
+                                         },
+                                         {
+                                             "name":  "Crêpe Royale",
+                                             "description":  null,
+                                             "price":  18,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Crêpe Tunisienne",
+                                             "description":  "Harissa, Thon, Fromage, Œuf",
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/crepes-salees/crepes-salees-8.jpg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Crêpes Sucrées",
+                           "slug":  "crepes-sucrees",
+                           "display_order":  10,
+                           "items":  [
+                                         {
+                                             "name":  "Crêpe banane",
+                                             "description":  null,
+                                             "price":  10,
+                                             "image_url":  "/storage/menu/crepes-sucrees/crepes-sucrees-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Crêpe BELLA VISTA",
+                                             "description":  null,
+                                             "price":  25,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Crêpe botanique",
+                                             "description":  "Fruits secs",
+                                             "price":  8,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Crêpe bueno",
+                                             "description":  "Fruits secs - banane - bueno",
+                                             "price":  12,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Crêpe chocolat",
+                                             "description":  null,
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/crepes-sucrees/crepes-sucrees-5.jpeg"
+                                         },
+                                         {
+                                             "name":  "Crêpe milka nutella banane",
+                                             "description":  null,
+                                             "price":  17,
+                                             "image_url":  "/storage/menu/crepes-sucrees/crepes-sucrees-6.jpg"
+                                         },
+                                         {
+                                             "name":  "Crêpe milka nutella fruits sec",
+                                             "description":  null,
+                                             "price":  17,
+                                             "image_url":  "/storage/menu/crepes-sucrees/crepes-sucrees-7.jpg"
+                                         },
+                                         {
+                                             "name":  "Crêpe milka nutella",
+                                             "description":  null,
+                                             "price":  15,
+                                             "image_url":  "/storage/menu/crepes-sucrees/crepes-sucrees-8.jpg"
+                                         },
+                                         {
+                                             "name":  "Crêpe milka nutella oreo",
+                                             "description":  null,
+                                             "price":  17,
+                                             "image_url":  "/storage/menu/crepes-sucrees/crepes-sucrees-9.jpg"
+                                         },
+                                         {
+                                             "name":  "Crêpe milka nutella spéculos",
+                                             "description":  null,
+                                             "price":  17,
+                                             "image_url":  "/storage/menu/crepes-sucrees/crepes-sucrees-10.jpg"
+                                         },
+                                         {
+                                             "name":  "Crêpe oreo",
+                                             "description":  null,
+                                             "price":  11,
+                                             "image_url":  "/storage/menu/crepes-sucrees/crepes-sucrees-11.jpg"
+                                         },
+                                         {
+                                             "name":  "Crêpe spéculoos",
+                                             "description":  null,
+                                             "price":  11,
+                                             "image_url":  "/storage/menu/crepes-sucrees/crepes-sucrees-12.jpeg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Gauffres Salées",
+                           "slug":  "gauffres-salees",
+                           "display_order":  11,
+                           "items":  [
+                                         {
+                                             "name":  "Gauffre Chevrette",
+                                             "description":  null,
+                                             "price":  18,
+                                             "image_url":  "/storage/menu/gauffres-salees/gauffres-salees-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Gauffre Poulet",
+                                             "description":  null,
+                                             "price":  15,
+                                             "image_url":  "/storage/menu/gauffres-salees/gauffres-salees-2.webp"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Gauffres Sucrées",
+                           "slug":  "gauffres-sucrees",
+                           "display_order":  12,
+                           "items":  [
+                                         {
+                                             "name":  "Gauffre banane",
+                                             "description":  null,
+                                             "price":  15,
+                                             "image_url":  "/storage/menu/gauffres-sucrees/gauffres-sucrees-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Gauffre botanique",
+                                             "description":  null,
+                                             "price":  15,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Gauffre Bueno",
+                                             "description":  null,
+                                             "price":  17,
+                                             "image_url":  "/storage/menu/gauffres-sucrees/gauffres-sucrees-3.jpg"
+                                         },
+                                         {
+                                             "name":  "Gauffre chocolat",
+                                             "description":  null,
+                                             "price":  13,
+                                             "image_url":  "/storage/menu/gauffres-sucrees/gauffres-sucrees-4.jpeg"
+                                         },
+                                         {
+                                             "name":  "Gauffre Fruits de saison",
+                                             "description":  null,
+                                             "price":  17,
+                                             "image_url":  "/storage/menu/gauffres-sucrees/gauffres-sucrees-5.jpg"
+                                         },
+                                         {
+                                             "name":  "Gauffre oreo",
+                                             "description":  null,
+                                             "price":  16,
+                                             "image_url":  "/storage/menu/gauffres-sucrees/gauffres-sucrees-6.jpg"
+                                         },
+                                         {
+                                             "name":  "Gauffre spéculoos",
+                                             "description":  null,
+                                             "price":  16,
+                                             "image_url":  "/storage/menu/gauffres-sucrees/gauffres-sucrees-7.jpg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Fruits Split",
+                           "slug":  "fruits-split",
+                           "display_order":  13,
+                           "items":  [
+                                         {
+                                             "name":  "Banana Split",
+                                             "description":  "Banane, 3 boules de glace, Crème chantilly",
+                                             "price":  18,
+                                             "image_url":  "/storage/menu/fruits-split/fruits-split-1.jpg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Salade de Fruits",
+                           "slug":  "salade-de-fruits",
+                           "display_order":  14,
+                           "items":  [
+                                         {
+                                             "name":  "Corbeille de Fruits de saison",
+                                             "description":  null,
+                                             "price":  25,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Salade de Fruits glacés",
+                                             "description":  "Fruits, miel, boules de glace, crème de chantilly",
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/salade-de-fruits/salade-de-fruits-2.jpeg"
+                                         },
+                                         {
+                                             "name":  "Salade de Fruits secs \u0026 glacés",
+                                             "description":  "Fruits, miel, 2 boules de glace, fruits secs, crème de chantilly",
+                                             "price":  16,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Salade de Fruits secs",
+                                             "description":  "Fruits, miel, fruits secs, crème de chantilly",
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/salade-de-fruits/salade-de-fruits-4.jpg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Boissons Chaudes",
+                           "slug":  "boissons-chaudes",
+                           "display_order":  15,
+                           "items":  [
+                                         {
+                                             "name":  "Americain",
+                                             "description":  null,
+                                             "price":  4,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Café Avocato",
+                                             "description":  null,
+                                             "price":  6.5,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-2.jpg"
+                                         },
+                                         {
+                                             "name":  "Café Liégeois",
+                                             "description":  null,
+                                             "price":  8.5,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-3.webp"
+                                         },
+                                         {
+                                             "name":  "Café Spécial",
+                                             "description":  "Café Nestlé",
+                                             "price":  5.5,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-4.jpg"
+                                         },
+                                         {
+                                             "name":  "Café Turc",
+                                             "description":  null,
+                                             "price":  6,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-5.jpg"
+                                         },
+                                         {
+                                             "name":  "Caramel Latté Macchiato",
+                                             "description":  null,
+                                             "price":  7,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-6.jpeg"
+                                         },
+                                         {
+                                             "name":  "Chocolat Chaud",
+                                             "description":  null,
+                                             "price":  6,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-7.jpg"
+                                         },
+                                         {
+                                             "name":  "Crème",
+                                             "description":  null,
+                                             "price":  4.5,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-8.jpg"
+                                         },
+                                         {
+                                             "name":  "Double Express",
+                                             "description":  null,
+                                             "price":  5,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-9.webp"
+                                         },
+                                         {
+                                             "name":  "Express",
+                                             "description":  null,
+                                             "price":  3.5,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-10.webp"
+                                         },
+                                         {
+                                             "name":  "Macchiato",
+                                             "description":  null,
+                                             "price":  4,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-11.jpg"
+                                         },
+                                         {
+                                             "name":  "Mocha Latté Macchiato",
+                                             "description":  null,
+                                             "price":  7,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-12.jpg"
+                                         },
+                                         {
+                                             "name":  "Nutella Latté",
+                                             "description":  null,
+                                             "price":  10,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-13.jpg"
+                                         },
+                                         {
+                                             "name":  "Pistache Latté",
+                                             "description":  null,
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-14.webp"
+                                         },
+                                         {
+                                             "name":  "Thé Amandes",
+                                             "description":  null,
+                                             "price":  7,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Thé Baklawa",
+                                             "description":  null,
+                                             "price":  9,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Thé Infusion",
+                                             "description":  null,
+                                             "price":  4,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-17.jpg"
+                                         },
+                                         {
+                                             "name":  "Thé",
+                                             "description":  null,
+                                             "price":  2.5,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-18.jpg"
+                                         },
+                                         {
+                                             "name":  "Thé pignons",
+                                             "description":  null,
+                                             "price":  8,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-19.jpg"
+                                         },
+                                         {
+                                             "name":  "Vanilla Latté",
+                                             "description":  null,
+                                             "price":  6,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-20.jpg"
+                                         },
+                                         {
+                                             "name":  "Verveine",
+                                             "description":  null,
+                                             "price":  4,
+                                             "image_url":  "/storage/menu/boissons-chaudes/boissons-chaudes-21.jpg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Boissons Froides",
+                           "slug":  "boissons-froides",
+                           "display_order":  16,
+                           "items":  [
+                                         {
+                                             "name":  "Américain Ice Coffee",
+                                             "description":  null,
+                                             "price":  5,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Banane Fraise Jus",
+                                             "description":  null,
+                                             "price":  10,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-2.jpeg"
+                                         },
+                                         {
+                                             "name":  "Banane Jus",
+                                             "description":  null,
+                                             "price":  8,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-3.jpeg"
+                                         },
+                                         {
+                                             "name":  "Banane Milkshake",
+                                             "description":  null,
+                                             "price":  9,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-4.jpg"
+                                         },
+                                         {
+                                             "name":  "Banane Smoothie",
+                                             "description":  null,
+                                             "price":  8,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-5.jpg"
+                                         },
+                                         {
+                                             "name":  "Boisson Énergétique",
+                                             "description":  null,
+                                             "price":  8,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-6.webp"
+                                         },
+                                         {
+                                             "name":  "Caramel Frappuccino",
+                                             "description":  null,
+                                             "price":  10,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-7.jpg"
+                                         },
+                                         {
+                                             "name":  "Caramel Ice Coffee",
+                                             "description":  null,
+                                             "price":  9,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-8.jpg"
+                                         },
+                                         {
+                                             "name":  "Chocolat Ice Coffee",
+                                             "description":  null,
+                                             "price":  8,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-9.jpg"
+                                         },
+                                         {
+                                             "name":  "Chocolat Milkshake",
+                                             "description":  null,
+                                             "price":  9,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-10.webp"
+                                         },
+                                         {
+                                             "name":  "Citronnade",
+                                             "description":  null,
+                                             "price":  5,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-11.webp"
+                                         },
+                                         {
+                                             "name":  "Classic Mojito",
+                                             "description":  "Menthe verte, Citron, glaçon, sprite",
+                                             "price":  8,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-12.jpg"
+                                         },
+                                         {
+                                             "name":  "Coffee Frappuccino",
+                                             "description":  null,
+                                             "price":  9,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-13.jpg"
+                                         },
+                                         {
+                                             "name":  "Eau Minérale 0.5L",
+                                             "description":  null,
+                                             "price":  1.5,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-14.jpg"
+                                         },
+                                         {
+                                             "name":  "Eau Minérale 1L",
+                                             "description":  null,
+                                             "price":  3,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-15.jpg"
+                                         },
+                                         {
+                                             "name":  "Énergétique Mojito",
+                                             "description":  "Shark ou red bull, menthe verte, citron, glaçon",
+                                             "price":  14,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-16.jpg"
+                                         },
+                                         {
+                                             "name":  "Fraise Banane Smoothie",
+                                             "description":  null,
+                                             "price":  10,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-17.webp"
+                                         },
+                                         {
+                                             "name":  "Fraise Jus",
+                                             "description":  null,
+                                             "price":  7,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-18.jpeg"
+                                         },
+                                         {
+                                             "name":  "Fraise Milkshake",
+                                             "description":  null,
+                                             "price":  9,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-19.jpg"
+                                         },
+                                         {
+                                             "name":  "Fraise Smoothie",
+                                             "description":  null,
+                                             "price":  8,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-20.jpg"
+                                         },
+                                         {
+                                             "name":  "Cocktail Fruits de saison",
+                                             "description":  null,
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-21.jpg"
+                                         },
+                                         {
+                                             "name":  "Garci",
+                                             "description":  null,
+                                             "price":  3.5,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-22.jpg"
+                                         },
+                                         {
+                                             "name":  "Kiwi Banane Jus",
+                                             "description":  null,
+                                             "price":  10,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-23.jpg"
+                                         },
+                                         {
+                                             "name":  "Lotus Ice Coffee",
+                                             "description":  null,
+                                             "price":  10,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-24.jpg"
+                                         },
+                                         {
+                                             "name":  "Manga Ice Tea",
+                                             "description":  null,
+                                             "price":  9,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-25.jpg"
+                                         },
+                                         {
+                                             "name":  "Noisette Milkshake",
+                                             "description":  null,
+                                             "price":  9,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-26.webp"
+                                         },
+                                         {
+                                             "name":  "Nutella Frappuccino (SPÉCIAL)",
+                                             "description":  null,
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-27.webp"
+                                         },
+                                         {
+                                             "name":  "Nutella Ice Coffee",
+                                             "description":  null,
+                                             "price":  10,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-28.jpg"
+                                         },
+                                         {
+                                             "name":  "Orange",
+                                             "description":  null,
+                                             "price":  5,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-29.jpg"
+                                         },
+                                         {
+                                             "name":  "Oreo Frappuccino (SPÉCIAL)",
+                                             "description":  null,
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-30.jpg"
+                                         },
+                                         {
+                                             "name":  "Oreo Milkshake",
+                                             "description":  null,
+                                             "price":  11,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-31.jpg"
+                                         },
+                                         {
+                                             "name":  "Parfumé Mojito",
+                                             "description":  "Sirop au choix: cerise, framboise, fraise, bleu, fruits de bois",
+                                             "price":  10,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-32.jpg"
+                                         },
+                                         {
+                                             "name":  "Peach Ice Tea",
+                                             "description":  null,
+                                             "price":  8,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-33.jpg"
+                                         },
+                                         {
+                                             "name":  "Pistache Milkshake",
+                                             "description":  null,
+                                             "price":  9,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-34.jpg"
+                                         },
+                                         {
+                                             "name":  "Soda au choix",
+                                             "description":  null,
+                                             "price":  3.5,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-35.webp"
+                                         },
+                                         {
+                                             "name":  "Speculoos Frappuccino (SPÉCIAL)",
+                                             "description":  null,
+                                             "price":  12,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-36.jpg"
+                                         },
+                                         {
+                                             "name":  "Speculoos Milkshake",
+                                             "description":  null,
+                                             "price":  11,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-37.jpg"
+                                         },
+                                         {
+                                             "name":  "Vanille Frappuccino",
+                                             "description":  null,
+                                             "price":  10,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-38.jpg"
+                                         },
+                                         {
+                                             "name":  "Vanille Latté Ice Coffee",
+                                             "description":  null,
+                                             "price":  8.5,
+                                             "image_url":  "/storage/menu/boissons-froides/boissons-froides-39.jpg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Desserts",
+                           "slug":  "desserts",
+                           "display_order":  17,
+                           "items":  [
+                                         {
+                                             "name":  "Cheesecake",
+                                             "description":  null,
+                                             "price":  10,
+                                             "image_url":  "/storage/menu/desserts/desserts-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Gâteau au choix",
+                                             "description":  "Le prix varie",
+                                             "price":  null,
+                                             "image_url":  "/storage/menu/desserts/desserts-2.jpg"
+                                         },
+                                         {
+                                             "name":  "Jawejem Moyenne",
+                                             "description":  "Yaourt nature, Fruits, Fruits secs, Miel",
+                                             "price":  10,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "Jawejem XL",
+                                             "description":  "Yaourt nature, Fruits, Fruits secs, nutella",
+                                             "price":  15,
+                                             "image_url":  null
+                                         },
+                                         {
+                                             "name":  "San Sebastian",
+                                             "description":  null,
+                                             "price":  11,
+                                             "image_url":  "/storage/menu/desserts/desserts-5.jpg"
+                                         },
+                                         {
+                                             "name":  "Tiramisu Classique Nutella",
+                                             "description":  null,
+                                             "price":  11,
+                                             "image_url":  "/storage/menu/desserts/desserts-6.jpeg"
+                                         },
+                                         {
+                                             "name":  "Tiramisu Lotus",
+                                             "description":  null,
+                                             "price":  12.5,
+                                             "image_url":  "/storage/menu/desserts/desserts-7.jpg"
+                                         },
+                                         {
+                                             "name":  "Tiramisu Pistache",
+                                             "description":  null,
+                                             "price":  14,
+                                             "image_url":  "/storage/menu/desserts/desserts-8.jpeg"
+                                         }
+                                     ]
+                       },
+                       {
+                           "name":  "Glaces",
+                           "slug":  "glaces",
+                           "display_order":  18,
+                           "items":  [
+                                         {
+                                             "name":  "Coupe 1 Boule",
+                                             "description":  null,
+                                             "price":  4,
+                                             "image_url":  "/storage/menu/glaces/glaces-1.jpg"
+                                         },
+                                         {
+                                             "name":  "Coupe 2 Boules",
+                                             "description":  null,
+                                             "price":  7,
+                                             "image_url":  "/storage/menu/glaces/glaces-2.jpg"
+                                         },
+                                         {
+                                             "name":  "Coupe 3 Boules",
+                                             "description":  null,
+                                             "price":  10,
+                                             "image_url":  "/storage/menu/glaces/glaces-3.jpg"
+                                         }
+                                     ]
+                       }
+                   ],
+    "store":  {
+                  "currency":  "DT",
+                  "whatsapp":  "https://wa.me/21625258000",
+                  "facebook":  "https://www.facebook.com/Bella.artiista",
+                  "maps":  "https://maps.app.goo.gl/4f47MFWhXrCAPzxBA",
+                  "name":  "Bella Vista",
+                  "address":  "Avenue de l\u0027Environnement, Korba",
+                  "background":  "bgEpnlze4qAk_s8AytQLkU9.webp",
+                  "phone":  "+216 25 258 000",
+                  "logo":  "logo2_Fk539niluo.png"
+              }
+}

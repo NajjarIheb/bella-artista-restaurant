@@ -1,0 +1,11 @@
+# InfinityFree root .htaccess
+# Place this file at htdocs/ root (rename it to just ".htaccess")
+# It forwards all traffic to the Laravel public folder.
+
+RewriteEngine On
+
+# Let requests that already go to the Laravel folder through
+RewriteRule ^laravel/ - [L]
+
+# Forward everything else to the Laravel public directory
+RewriteRule ^(.*)$ laravel/public/$1 [L]

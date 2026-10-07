@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^laravel/ - [L]
+
+RewriteRule ^(.*)$ laravel/public/$1 [L]
